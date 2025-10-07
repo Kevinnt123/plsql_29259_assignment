@@ -45,6 +45,8 @@ ID: 29259
 
 **Task 3: Oracle Enterprise Manager**
 
+1. Open and configure Oracle Enterprise Manager.
+   
 <img width="524" height="232" alt="image" src="https://github.com/user-attachments/assets/85d31b8d-4612-42b1-ab1c-73011fd16eee" />
 
 
