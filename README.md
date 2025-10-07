@@ -4,12 +4,12 @@ Name: NTAKIRUTIMANA Kevin
 
 ID: 29259
 
-**Task 1: create a new PDB( pluggable database**
+**Task 1: create a new PDB( pluggable database)**
 
 CREATE PLUGGABLE DATABASE ke_pdb_29259
 
     ADMIN USER kevin_plsqlauca_29259 IDENTIFIED BY 12345
-    
+
     FILE_NAME_CONVERT = (
     
         'C:\ORACLE21C\ORADATA\ORCL\PDBSEED\',
